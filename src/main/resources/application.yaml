@@ -1,0 +1,7 @@
+spring:
+  data:
+    redis:
+      host: redis-13568.c290.ap-northeast-1-2.ec2.cloud.redislabs.com
+      port: 13568
+      username: default
+      password: Mp1IvsxURGgOJoKsHPzKDorBMUS6hk2V
