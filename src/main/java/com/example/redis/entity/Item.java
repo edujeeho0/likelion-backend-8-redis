@@ -20,5 +20,4 @@ public class Item {
     private Integer price;
     @Setter
     private Integer stock;
-
 }
